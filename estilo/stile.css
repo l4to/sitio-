@@ -1,0 +1,54 @@
+h1{
+    background-color: rgb(56, 56, 134);
+    width: 750px;
+    height: 90px;
+    margin-top: 1px;
+    color: rgb(243, 240, 239);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: left;
+}
+.entrada{
+    background-color: rgb(56, 56, 134);
+    width: 600px;
+    height: 73px;
+    margin-top:1 px;
+    margin-bottom: 215px;
+    color: aquamarine;
+    float: right;
+    border-top: 500px;
+}
+
+.ima{
+    width: 90%;
+    height: 50%;
+    float: right;
+}
+
+.apartado{
+    background-color: rgb(167, 163, 163);
+    float: right;
+    width: 50%;
+}
+
+.ape{
+    width: 45%;
+}
+.non{
+   width: 49%; 
+}
+.co2{
+    width: 98%;
+}
+
+.con2{
+    width: 98%;  
+}
+
+.letra{
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
